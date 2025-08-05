@@ -64,7 +64,7 @@
 
 Watch the demonstration of **ShopSense** in action:
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/Ou_bG1i3ybU)
 
 
 ---
