@@ -53,10 +53,19 @@
 
 ## 🌍 Designed for Impact
 
-- 👁️ **3.52+ lakh** visually impaired in Tamil Nadu
-- 🇮🇳 **4.9+ million** in India
-- 🌐 **40+ million** worldwide
-- 🛍️ Enables safe, dignified, and independent shopping in malls/stores
+- 👁️ **3.52+ lakh** visually impaired in Tamil Nadu  
+- 🇮🇳 **4.9+ million** in India  
+- 🌐 **40+ million** worldwide  
+- 🛍️ Enables safe, dignified, and independent shopping in malls/stores  
+
+---
+
+## 🎥 YouTube Demo
+
+Watch the demonstration of **ShopSense** in action:
+
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 ---
 
@@ -71,35 +80,38 @@
 
 ### 🧠 Mentors
 - Shaju Nesan  
-- Deepak Sureshkumar Rajasekaran
+- Deepak Sureshkumar Rajasekaran  
 
 ---
 
 ## 🛠️ Skills Utilized
 
-- RFID Communication
-- Embedded Systems 
-- Audio Output Design
-- Team Collaboration
-- Problem Solving & Accessibility Design
+- RFID Communication  
+- Embedded Systems  
+- Audio Output Design  
+- Team Collaboration  
+- Problem Solving & Accessibility Design  
 
 ---
 
 ## 🔭 Future Enhancements
 
-- 📚 Expand product database support
-- 📢 Integrate voice commands or speech recognition
-- 🧪 Conduct field tests and gather user feedback
-- 🏬 Scale system for different store layouts
+- 📚 Expand product database support  
+- 📢 Integrate voice commands or speech recognition  
+- 🧪 Conduct field tests and gather user feedback  
+- 🏬 Scale system for different store layouts  
 
 ---
 
 ## 📜 License & Patent
 
 This project is **patented** under Indian Intellectual Property laws:  
-**Patent Number:** 202441079718  
-**Issued Date:** October 25, 2024
+- **Patent Number:** 202441079718  
+- **Issued Date:** October 25, 2024  
+
+All rights reserved. Commercial usage without permission is prohibited.
 
 ---
+
 
 
