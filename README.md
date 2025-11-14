@@ -1,13 +1,9 @@
 # 🎯 ShopSense – RFID-Based Navigation System for Visually Impaired Shoppers
 
-[![Patent](https://img.shields.io/badge/Patent-202441079718-blue)]()
 ![Platform](https://img.shields.io/badge/Platform-Arduino-orange)
-![License](https://img.shields.io/badge/Status-Patented-brightgreen)
+
 
 **Duration:** March 2024 – May 2024  
-**Affiliation:** Rajalakshmi Institute of Technology  
-**Patent Number:** 202441079718  
-**Date Issued:** October 25, 2024  
 
 ---
 
@@ -84,32 +80,11 @@ Watch the demonstration of **ShopSense** in action:
 
 ---
 
-## 🛠️ Skills Utilized
-
-- RFID Communication  
-- Embedded Systems  
-- Audio Output Design  
-- Team Collaboration  
-- Problem Solving & Accessibility Design  
-
----
-
-## 🔭 Future Enhancements
-
-- 📚 Expand product database support  
-- 📢 Integrate voice commands or speech recognition  
-- 🧪 Conduct field tests and gather user feedback  
-- 🏬 Scale system for different store layouts  
-
----
-
 ## 📜 License & Patent
 
 This project is **patented** under Indian Intellectual Property laws:  
-- **Patent Number:** 202441079718  
+- **Patent Application no:** 202441079718  
 - **Issued Date:** October 25, 2024  
-
-All rights reserved. Commercial usage without permission is prohibited.
 
 ---
 
