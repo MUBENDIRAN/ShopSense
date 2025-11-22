@@ -84,7 +84,7 @@ Watch the demonstration of **ShopSense** in action:
 
 This project is **patented** under Indian Intellectual Property laws:  
 - **Patent Application no:** 202441079718  
-- **Issued Date:** October 25, 2024  
+- **Published Date:** October 25, 2024  
 
 ---
 
